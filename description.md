@@ -9,5 +9,5 @@ I will explore whether NYC health inspection grades are correlated with a measur
 
 The data that I will use for this project is:
 * NYC restaurant inspection data (available here: https://data.cityofnewyork.us/Health/Restaurant-Inspection-Results/4vkw-7nck)
-* Cross-country data on food standards (I might not be able to find anything here, in which case I may end of using income per capita levels)
+* Cross-country data on food standards. I might not be able to find anything here, in which case I may end of using income per capita levels from the World Bank, which is available publicly. 
 
