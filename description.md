@@ -7,5 +7,5 @@ In particular, I want to test the hypotheses that foreign food safety and hygene
 
 The data that I will use for this project is:
 * NYC restaurant inspection data (available here: https://data.cityofnewyork.us/Health/Restaurant-Inspection-Results/4vkw-7nck)
-* Cross-country data on food standards. I might not be able to find anything here, in which case I may end of using income per capita levels from the World Bank, which is available publicly. 
+* Cross-country data on food standards. I was not successful in finding this dataset yet, so I will probably end up using a country's income per capita to proxy its level of development and implicitly its food safety standards. This data is available here: http://data.worldbank.org/data-catalog/world-development-indicators
 
